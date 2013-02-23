@@ -5,7 +5,7 @@ class Entrylayout_ext {
 	var $version 		= '1.0';
 	var $description	= 'Entry specific layout in your publish pages';
 	var $settings_exist	= 'n';
-	var $docs_url		= 'http://duktee.com/addons/entrylayout/';
+	var $docs_url		= 'https://github.com/dukt/addon.eecms.entry-layout';
 	var $settings 		= array();
     
     
