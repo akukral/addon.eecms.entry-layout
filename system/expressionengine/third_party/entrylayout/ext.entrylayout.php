@@ -1,4 +1,4 @@
-<?
+<?php
 class Entrylayout_ext {
 
 	var $name			= 'Entry Layout';
