@@ -12,7 +12,7 @@ Member Groups are supported in the Entry Field Add-On. This means that you will 
 
 **Multi Site Manager support**
 
-Entry Layout support the Multi Site Manager ExpressionEngine feature. You will still have to purchase a license for each site using this Add-On
+Entry Layout support the Multi Site Manager ExpressionEngine feature.
 
 ## Requirements
 
