@@ -26,6 +26,7 @@ class Entrylayout_ext {
 			'class'		=> __CLASS__,
 			'method'	=> 'publish_form_channel_preferences',
 			'hook'		=> 'publish_form_channel_preferences',
+			'settings'	=> '',
 			'priority'	=> 10,
 			'version'	=> $this->version,
 			'enabled'	=> 'y'
@@ -38,6 +39,7 @@ class Entrylayout_ext {
 			'class'		=> __CLASS__,
 			'method'	=> 'sessions_end',
 			'hook'		=> 'sessions_end',
+			'settings'	=> '',
 			'priority'	=> 10,
 			'version'	=> $this->version,
 			'enabled'	=> 'y'
